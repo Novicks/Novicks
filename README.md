@@ -3,8 +3,6 @@
 ## Olá! Eu sou o Emerson!👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-henrique-dos-santos-mariano-a0551b302/)
 
-![Novicks GitHub stats](https://github-readme-stats.vercel.app/api?username=novicks&show_icons=true&theme=radical)
-
 ## Tecnologias que eu estudo e utilizo no dia a dia.
 <div style="display: inline_block">
   <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
