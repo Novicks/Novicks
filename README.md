@@ -14,8 +14,8 @@
 
 ## Tecnologias que eu estou estudando e apredendo.
 <div style="display: inline_block">
-  <img align="center" alt="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
-  <img align="center" alt="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img align="center" alt="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
 
